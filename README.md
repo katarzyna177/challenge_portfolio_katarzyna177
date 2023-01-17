@@ -28,20 +28,20 @@
     <ul>
       <li>logowanie do Scouts Panel - służy do zalogowania się do serwisu</li>
       <li>wylogowywanie ze Scouts Panel - służy do wylogowania się z serwisu</li>
-      <li>wyszukiwarka - służy do wyszukiwania wyników po elementach jakie się wpisze</li>
+      <li>wyszukiwarka - służy do wyszukiwania wyników po elementach, jakie się wpisze</li>
       <li>dodawanie gracza - służy do dodania gracza na listę</li>
-      <li>edytowanie gracza - służy do edytowania gracza który znajduje już się w tabeli</li>
+      <li>edytowanie gracza - służy do edytowania gracza, który znajduje już się w tabeli</li>
       <li>filtrowanie wyników tabeli - filtruje wyniki po wartościach jakie się wpisze w poszczególnych komórkach</li>
-      <li>edytowanie widoczności kolumn - można wybrać tylko te kolumny które są akurat potrzebne</li>
+      <li>edytowanie widoczności kolumn - można wybrać tylko te kolumny, które są akurat potrzebne</li>
       <li>drukowanie wyników tabeli - służy do wydruku tabeli</li>
-      <li>pobieranie pliku tableDownland.csv - służy do pobrania na swoje użądzenie wszystkich wyników z tabeli</li>
+      <li>pobieranie pliku tableDownland.csv - służy do pobrania na swoje urządzenie wszystkich wyników z tabeli</li>
       <li>zmiana języka - służy do zmiany języka są przewidziane dwie opcje pl i en</li>
       <li>funkcja rozpocznij mecz - służy do rozgrywania meczu</li>
     </ul>
   </li>
   <li>Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie??
     <ul>
-      <li>Interfejs przejrzysty wiadomo, gdzie są elementy klikalne ponieważ podświetlają się po najechaniu kursorem.</li>
+      <li>Interfejs przejrzysty wiadomo, gdzie są elementy klikalne, ponieważ podświetlają się po najechaniu kursorem.</li>
       <li>Strasznie szaro na tej stronie brak mi trochę kolorystyki, która trochę ożywiłaby serwis.</li>
     </ul>
   </li>
@@ -55,13 +55,13 @@
     <ul>
       <li>Karta Gracze - Edycja gracza
         <ul>
-        <li>Przycisk „Dodaj język” można klikać na ten przycisk w nieskończoność mimo nieuzupełnienia tego pola wcześniej tak samo jest z przyciskiem „Dodaj link z Youtube”</li>
-        <li>Brak walidacji pól Imię i Nazwisko - dopuszczalne są inne znaki niż litery</li>
-        <li>Brak walidacji wagi - waga nie może być ujemna a w serwisie jest to dopuszczone</li>
+        <li>Przycisk „Dodaj język” można klikać na ten przycisk w nieskończoność mimo nieuzupełnienia tego pola wcześniej tak samo jest z przyciskiem „Dodaj link z Youtube”.</li>
+        <li>Brak walidacji pól Imię i Nazwisko - dopuszczalne są inne znaki niż litery.</li>
+        <li>Brak walidacji wagi - waga nie może być ujemna a w serwisie jest to dopuszczone.</li>
         <li>Filtrowanie po wieku nie działa prawidłowo gdy wpisuje ten sam wiek w min i max nie wyszukuje niczego choć gracz o podanym wieku istnieje. Gdy próbuje usunąć wiek minimalny usuwa mi wiek maxymalny.</li>
         </ul>
       </li>
-      <li>Warto by zmienić kolor buttona „Clear” z różowego na jakiś czerwony</li>
+      <li>Warto by zmienić kolor buttona „Clear” z różowego na jakiś czerwony.</li>
       <li>Przy takiej dużej ilości graczy warto zmienić opcje wyświetlania ilości wyników wyszukiwania na więcej opcji np. 20, 50 na stronie.</li>
       <li>Raport meczowy
         <ul>
