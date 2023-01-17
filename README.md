@@ -11,8 +11,7 @@
 <p>Hej! Nazywam się Kasia.</p>
 
 <p>Zdecydowałam się na udział w challenge portfolio, ponieważ pragnę pracować, jako tester oprogramowania i czuję, że muszę usystematyzować swoją wiedzę z tego zakresu</p>
-<p>Chcę jak najwięcej się nauczyć, aby znaleźć wymarzoną pracę, która zarazem będzie moją pasją. 
-Moim celem jest również, aby ciągle się rozwijać, dlatego wybrałam tą ścieżkę.</p>
+<p>Chcę jak najwięcej się nauczyć, aby znaleźć wymarzoną pracę, która zarazem będzie moją pasją. Potrzebuje także zbudować portfolio, aby mieć większą szanse na zatrudnienie w tym obszarze. Moim celem jest również, aby ciągle się rozwijać, dlatego wybrałam tą ścieżkę.</p>
 
 <b><i>Kasia</i></b>
 
@@ -22,6 +21,7 @@ Moim celem jest również, aby ciągle się rozwijać, dlatego wybrałam tą śc
   <li>Na czym polega ta aplikacja? Do czego służy?
     <ul>
       <li>Aplikacja służy do zarządzania graczami i meczami oraz tworzenia raportów z meczów.</li>
+      <li>Daje możliwość przeglądania wskaźników umiejętności i pozycji zawodników.</li>
     </ul>
   </li>
   <li>Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a?
@@ -43,7 +43,6 @@ Moim celem jest również, aby ciągle się rozwijać, dlatego wybrałam tą śc
     <ul>
       <li>Interfejs przejrzysty wiadomo, gdzie są elementy klikalne ponieważ podświetlają się po najechaniu kursorem.</li>
       <li>Strasznie szaro na tej stronie brak mi trochę kolorystyki, która trochę ożywiłaby serwis.</li>
-      <li>Na stronie głównej w bocznym panelu bardzo brakuje mi zakładek „Matches” i „Reports”.</li>
     </ul>
   </li>
   <li>Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
@@ -62,7 +61,7 @@ Moim celem jest również, aby ciągle się rozwijać, dlatego wybrałam tą śc
         <li>Filtrowanie po wieku nie działa prawidłowo gdy wpisuje ten sam wiek w min i max nie wyszukuje niczego choć gracz o podanym wieku istnieje. Gdy próbuje usunąć wiek minimalny usuwa mi wiek maxymalny.</li>
         </ul>
       </li>
-      <li>Warto by zmienić kolor buttona „Clear” z pink na jakiś red</li>
+      <li>Warto by zmienić kolor buttona „Clear” z różowego na jakiś czerwony</li>
       <li>Przy takiej dużej ilości graczy warto zmienić opcje wyświetlania ilości wyników wyszukiwania na więcej opcji np. 20, 50 na stronie.</li>
       <li>Raport meczowy
         <ul>
