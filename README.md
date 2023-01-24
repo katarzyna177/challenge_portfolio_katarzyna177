@@ -73,4 +73,27 @@
   </li>
 </ol>
 
+<h2>TASK 2</h2>
+
+<h3>Subtask 1</h3>
+
+Pisanie przypadków testowych na podstawie User Story.
+
+https://docs.google.com/spreadsheets/d/1A_tMi5fafxzXeaO37VcMUMY3oHKdQVgY/edit?rtpof=true#gid=1425522543
+
+<h3>Subtask 2</h3>
+
+Pisanie przypadków testowych na podstawie “własnych doświadczeń.
+
+https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=drive_web&ouid=116724792418874987884&rtpof=true
+
+<h3>Subtask 3</h3>
+
+Po co piszemy test case’y?
+
+Piszemy test casy ponieważ one dają możliwość oceny jakie elementy powinny zostać prztestowane.  Dzienki przypadkom testowym dokumentujemy w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności.
+
+
+
+
 
