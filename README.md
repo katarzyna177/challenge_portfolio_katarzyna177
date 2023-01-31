@@ -93,6 +93,30 @@ Po co piszemy test case’y?
 
 Piszemy test casy ponieważ one dają możliwość oceny jakie elementy powinny zostać prztestowane.  Dzienki przypadkom testowym dokumentujemy w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności.
 
+<h2>TASK 3</h2>
+
+<h3>Subtask 1</h3>
+
+Formatka do zgłaszania błędów systemu stworzona i uzupełniona
+
+https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
+
+<h3>Subtask 2</h3>
+
+Test Casy wykonane i BUGI zaraportowane
+Subtask 1 - Test cases
+
+https://docs.google.com/spreadsheets/d/1bwzbHONk7XtrYPgmoBFkM4A9DsDVj7HX/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
+
+Subtask 2 - Test cases
+
+https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
+
+<h3>Subtask 3<h/3>
+
+Raport z wykonanych testów stworzony
+
+https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
 
 
 
