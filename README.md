@@ -81,11 +81,15 @@ Pisanie przypadków testowych na podstawie User Story.
 
 https://docs.google.com/spreadsheets/d/1A_tMi5fafxzXeaO37VcMUMY3oHKdQVgY/edit?rtpof=true#gid=1425522543
 
+https://docs.google.com/spreadsheets/d/1bwzbHONk7XtrYPgmoBFkM4A9DsDVj7HX/edit?rtpof=true
+
 <h3>Subtask 2</h3>
 
 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
 
 https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=drive_web&ouid=116724792418874987884&rtpof=true
+
+https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
 
 <h3>Subtask 3</h3>
 
