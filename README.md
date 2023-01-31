@@ -79,13 +79,13 @@
 
 Pisanie przypadków testowych na podstawie User Story.
 
-https://docs.google.com/spreadsheets/d/1bwzbHONk7XtrYPgmoBFkM4A9DsDVj7HX/edit?rtpof=true
+<a href="https://docs.google.com/spreadsheets/d/1bwzbHONk7XtrYPgmoBFkM4A9DsDVj7HX/edit?rtpof=true">Przypadki testowe stworzone na podstawie User Story</a>
 
 <h3>Subtask 2</h3>
 
 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
 
-https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
+< a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Przypadki testowe stworzone na podstawie własnych doświadczeń</a>
 
 <h3>Subtask 3</h3>
 
@@ -99,24 +99,24 @@ Piszemy test casy ponieważ one dają możliwość oceny jakie elementy powinny 
 
 Formatka do zgłaszania błędów systemu stworzona i uzupełniona
 
-https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
+<a href="https://docs.google.com/spreadsheets/d/1tQ5_ja33R_019TF53SKv1K5qn3J4vVnU/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Zgłoszone błędy</a>
 
 <h3>Subtask 2</h3>
 
 Test Casy wykonane i BUGI zaraportowane
 Subtask 1 - Test cases
 
-https://docs.google.com/spreadsheets/d/1bwzbHONk7XtrYPgmoBFkM4A9DsDVj7HX/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
+<a href="https://docs.google.com/spreadsheets/d/1bwzbHONk7XtrYPgmoBFkM4A9DsDVj7HX/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Wykonane Test cases nr 1</a>
 
 Subtask 2 - Test cases
 
-https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
+<a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Wykonane Test cases nr 2</a>
 
 <h3>Subtask 3<h/3>
 
 Raport z wykonanych testów stworzony
 
-https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true
+<a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Raport</a>
 
 
 
