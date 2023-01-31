@@ -85,7 +85,7 @@ Pisanie przypadków testowych na podstawie User Story.
 
 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
 
-< a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Przypadki testowe stworzone na podstawie własnych doświadczeń</a>
+<a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Przypadki testowe stworzone na podstawie własnych doświadczeń</a>
 
 <h3>Subtask 3</h3>
 
@@ -104,6 +104,7 @@ Formatka do zgłaszania błędów systemu stworzona i uzupełniona
 <h3>Subtask 2</h3>
 
 Test Casy wykonane i BUGI zaraportowane
+
 Subtask 1 - Test cases
 
 <a href="https://docs.google.com/spreadsheets/d/1bwzbHONk7XtrYPgmoBFkM4A9DsDVj7HX/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Wykonane Test cases nr 1</a>
@@ -112,7 +113,7 @@ Subtask 2 - Test cases
 
 <a href="https://docs.google.com/spreadsheets/d/1aYbBA9aUVUqpsqWgViodgkJB8IYuZAew/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Wykonane Test cases nr 2</a>
 
-<h3>Subtask 3<h/3>
+<h3>Subtask 3</h3>
 
 Raport z wykonanych testów stworzony
 
