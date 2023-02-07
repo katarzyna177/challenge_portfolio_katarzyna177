@@ -119,6 +119,23 @@ Raport z wykonanych testów stworzony
 
 <a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Raport</a>
 
+<h2>TASK 4</h2>
+
+<h3>Subtask 1</h3>
+
+Formatka do zgłaszania błędów systemu stworzona
+
+<h3>Subtask 2</h3>
+
+Przetestowano eksploracyjne i zaraportowano błędy
+
+<a href="https://docs.google.com/spreadsheets/d/1Kc2zjgaFuBei-7I7sGs7RIDrndK0UHVsjzh-cHuMooE/edit?usp=sharing">Zgłoszone błędy</a>
+
+<h3>Subtask 3</h3>
+
+Aplikacja służy do zamieszczania różnych ogłoszeń sprzedażowych jak i również ofertowych.
+
+
 
 
 
