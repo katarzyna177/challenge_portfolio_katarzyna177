@@ -133,8 +133,12 @@ Przetestowano eksploracyjne i zaraportowano błędy
 
 <h3>Subtask 3</h3>
 
-Aplikacja służy do zamieszczania różnych ogłoszeń sprzedażowych jak i również ofertowych.
+Aplikacja służy do zamieszczania różnych ogłoszeń sprzedażowych jak i również ofertowych. Można kupować, sprzedawać, wymieniać jak również dodawać ogłoszenia dotyczące pracy.
 
+
+<h3>Subtask 4</h3>
+
+<a href="https://challengetesting.atlassian.net/jira/software/projects/CTP/boards/1">Challenge testing - Jira</a>
 
 
 
