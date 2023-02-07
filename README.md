@@ -135,6 +135,11 @@ Przetestowano eksploracyjne i zaraportowano błędy
 
 Aplikacja służy do zamieszczania różnych ogłoszeń sprzedażowych jak i również ofertowych. Można kupować, sprzedawać, wymieniać jak również dodawać ogłoszenia dotyczące pracy.
 
+Urzytkownikiem końcowym aplikacji ma być każdy kto chce coś kupić, sprzedać zamienić bądź wynająć oraz osoby poszukujące pracy oraz pracodawcy zamieszczający ogłoszenia o pracę. 
+
+Moim zdaniem aplikacja jest user friendly ponieważ wiadomo gdzie kliknąć aby wywołać określoną akcję. 
+
+W aplikacji naatywnej często przy jakimś błędzie zdarza się że aplikacja się zamyka a w aplikacji internetowej zazwyczaj to się nie zdarza tylko występuje komunikat o błędzie.
 
 <h3>Subtask 4</h3>
 
