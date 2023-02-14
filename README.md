@@ -145,6 +145,26 @@ W aplikacji naatywnej często przy jakimś błędzie zdarza się że aplikacja s
 
 <a href="https://challengetesting.atlassian.net/jira/software/projects/CTP/boards/1">Challenge testing - Jira</a>
 
+<h2>TASK 5</h2>
 
+<h3>Subtask 1</h3>
 
+operatory:
 
+<ul>
+  <li>SELECT, UPDATE, DELETE</li>
+  <li>WHERE</li>
+  <li>LIKE, BETWEEN</li>
+  <li>ORDER BY ( ASC, DESC ), AND, OR</li>
+  <li>NULL, NOT, IN</li>
+  <li>GETDATE, DATEDIFF</li>
+  <li>COUNT, SUM, MIN, MAX</li>
+  <li>UPPER, LOWER</li>
+  <li>GROUP BY, JOIN</li>
+</ul>
+
+<h3>Subtask 2</h3>
+
+Konfiguracja środowiska i wgranie bazy danych ✔
+
+<h3>Subtask 3</h3>
