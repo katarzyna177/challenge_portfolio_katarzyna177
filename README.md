@@ -168,3 +168,49 @@ operatory:
 Konfiguracja środowiska i wgranie bazy danych ✔
 
 <h3>Subtask 3</h3>
+
+SQL Zadania
+
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
+![zad1](https://user-images.githubusercontent.com/16058577/219967648-057a3b1f-cc85-4d5f-b10f-0692be33eb8a.png)
+
+2. Wyświetl film, który powstał w 2019 roku.
+
+![zad2](https://user-images.githubusercontent.com/16058577/219968763-ffa80c57-aec9-403a-b8e6-4e79f7510b69.png)
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+![zad3](https://user-images.githubusercontent.com/16058577/219968800-e15be28d-6559-4bc6-b427-e417e8eff02c.png)
+
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+
+![zad4](https://user-images.githubusercontent.com/16058577/219968840-17c251f3-d2f7-4640-ba4d-3cc40d2cf85d.png)
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+![zad5](https://user-images.githubusercontent.com/16058577/219968857-1c89a024-0c66-4937-ae4b-e9efed08d072.png)
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+![zad6](https://user-images.githubusercontent.com/16058577/219968900-21ee66f8-2048-4798-81c2-1afbc2227e23.png)
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+![zad7](https://user-images.githubusercontent.com/16058577/219968925-03f138c5-7665-4dea-b912-5507686cb9fd.png)
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+![zad8](https://user-images.githubusercontent.com/16058577/219968951-a0016dcd-0f6b-4e91-a24a-22132c5dc4e6.png)
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+![zad9](https://user-images.githubusercontent.com/16058577/219968981-f5d0709e-9885-4213-b29a-07292bcf8edd.png)
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+![zad10](https://user-images.githubusercontent.com/16058577/219969008-7fab50b1-28ea-4b79-9bd3-4925fde40a3a.png)
+
+
+
+
