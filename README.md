@@ -212,5 +212,61 @@ SQL Zadania
 ![zad10](https://user-images.githubusercontent.com/16058577/219969008-7fab50b1-28ea-4b79-9bd3-4925fde40a3a.png)
 
 
+<h2>TASK 6</h2>
+
+<h3>Subtask 1</h3>
+
+SQL ciąg dalszy
+
+11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
+![zad11](https://user-images.githubusercontent.com/16058577/219969317-fac1f67e-b431-4215-9e96-ac1a516f3c27.png)
+
+12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+
+![zad12](https://user-images.githubusercontent.com/16058577/219969344-d3a72b2c-7c2a-4497-b280-6d8fdea07a8d.png)
+
+13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+![zad13](https://user-images.githubusercontent.com/16058577/219969382-c5f312be-c3b3-4d08-a50f-2bbb353e91e8.png)
+
+14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+![zad14](https://user-images.githubusercontent.com/16058577/219969406-efd2383c-4f70-4559-bff9-b6688f5e5a30.png)
+
+15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+![zad15](https://user-images.githubusercontent.com/16058577/219969440-ed061359-3889-4ed5-a6f1-c718b53a883d.png)
+
+16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+![zad16](https://user-images.githubusercontent.com/16058577/219969464-2308f222-bb89-4ec9-b372-68b7c360f3b7.png)
+
+17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+![zad17](https://user-images.githubusercontent.com/16058577/219969488-22d932e4-8f45-49db-9338-24b974099479.png)
+
+18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+
+![zad18](https://user-images.githubusercontent.com/16058577/219969510-44804db6-8118-4deb-90c8-9914904ea0f4.png)
+
+19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+![zad19](https://user-images.githubusercontent.com/16058577/219969531-b6dac7d0-2370-41cc-8984-45ec0e0a4f81.png)
+
+20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+![zad20](https://user-images.githubusercontent.com/16058577/219969583-6b51c0d7-06e3-4347-86b6-00ad5a51d46d.png)
+
+
+<h3>Subtask 2 - Test</h3>
+
+Wynik 13 pkt
+
+<h3>Subtask 3</h3>
+
+
+
+
 
 
