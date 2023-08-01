@@ -169,7 +169,7 @@ Konfiguracja środowiska i wgranie bazy danych ✔
 
 <h3>Subtask 3</h3>
 
-SQL Zadania
+<a id="sql">SQL Zadania</a>
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
