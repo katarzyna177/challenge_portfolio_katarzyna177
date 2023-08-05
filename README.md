@@ -75,6 +75,9 @@
 
 <h2>TASK 2</h2>
 
+### TEST CASES
+### Test environment: Football Scout - web application
+
 <h3>Subtask 1</h3>
 
 Pisanie przypadków testowych na podstawie User Story.
@@ -95,6 +98,9 @@ Piszemy test casy ponieważ one dają możliwość oceny jakie elementy powinny 
 
 <h2>TASK 3</h2>
 
+### BUG REPORT
+### Test environment: Football Scout - web application
+
 <h3>Subtask 1</h3>
 
 Formatka do zgłaszania błędów systemu stworzona i uzupełniona
@@ -104,6 +110,9 @@ Formatka do zgłaszania błędów systemu stworzona i uzupełniona
 <h3>Subtask 2</h3>
 
 Test Casy wykonane i BUGI zaraportowane
+
+### TEST CASY
+### Test environment: Football Scout - web application
 
 Subtask 1 - Test cases
 
@@ -115,11 +124,16 @@ Subtask 2 - Test cases
 
 <h3>Subtask 3</h3>
 
+### TEST REPORT
+### Test environment: Football Scout - web application
+
 Raport z wykonanych testów stworzony
 
 <a href="https://docs.google.com/document/d/1BGvZvFiKL5clDGQ_xBar13YeY1a-6hyu/edit?usp=sharing&ouid=116724792418874987884&rtpof=true&sd=true">Raport</a>
 
 <h2>TASK 4</h2>
+
+### Test environment: OLX - mobile app
 
 <h3>Subtask 1</h3>
 
@@ -143,7 +157,11 @@ W aplikacji naatywnej często przy jakimś błędzie zdarza się że aplikacja s
 
 <h3>Subtask 4</h3>
 
-<a href="https://challengetesting.atlassian.net/jira/software/projects/CTP/boards/1">Challenge testing - Jira</a>
+### BUG REPORT (I used JIRA for this task)
+### Test environment: SwipeTo - mobile app
+
+<a href="https://docs.google.com/spreadsheets/d/1uzdr9za6OqU4Hj30lBi017jEtYjBXA0uLjjaV-zMCdw/edit?usp=sharing">Bug report - mobile app testing</a>
+<!--<a href="https://challengetesting.atlassian.net/jira/software/projects/CTP/boards/1">Challenge testing - Jira</a>-->
 
 <h2>TASK 5</h2>
 
